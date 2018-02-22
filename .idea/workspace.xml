@@ -40,10 +40,19 @@
             <state relative-caret-position="532">
               <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
+                <marker date="1519272907620" expanded="true" signature="33:88" ph="//..." />
+                <marker date="1519272907620" expanded="true" signature="396:407" ph=" { " />
+                <marker date="1519272907620" expanded="true" signature="428:434" ph=" }" />
+                <marker date="1519272907620" expanded="true" signature="534:629" ph="{...}" />
+                <marker date="1519272907620" expanded="true" signature="535:571" ph="//..." />
+                <marker date="1519272907620" expanded="true" signature="699:1429" ph="{...}" />
+                <marker date="1519272907620" expanded="true" signature="716:856" ph="{...}" />
+                <marker date="1519272907620" expanded="true" signature="787:805" ph=" { " />
+                <marker date="1519272907620" expanded="true" signature="834:847" ph=" }" />
+                <marker date="1519272907620" expanded="true" signature="874:1039" ph="{...}" />
+                <marker date="1519272907620" expanded="true" signature="947:1029" ph="{...}" />
+                <marker date="1519272907620" expanded="true" signature="1291:1421" ph="{...}" />
+                <marker date="1519272907620" expanded="true" signature="1476:1563" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -52,8 +61,8 @@
       <file leaf-file-name="ForEach.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GeneralProgramDesign/ForEach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="455">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ewr.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GeneralProgramDesign/ewr.java">
+      <file leaf-file-name="fgh.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GeneralProgramDesign/fgh.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="38">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -155,8 +164,8 @@
         <option value="$PROJECT_DIR$/src/EnumAndAnnotation/EnumPlantTest.java" />
         <option value="$PROJECT_DIR$/src/EnumAndAnnotation/Calculator.java" />
         <option value="$PROJECT_DIR$/src/EnumAndAnnotation/SalaryPayEnum.java" />
-        <option value="$PROJECT_DIR$/src/GeneralProgramDesign/ForEach.java" />
         <option value="$PROJECT_DIR$/src/GeneralProgramDesign/vbn.java" />
+        <option value="$PROJECT_DIR$/src/GeneralProgramDesign/ForEach.java" />
       </list>
     </option>
   </component>
@@ -377,12 +386,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518162054424</updated>
       <workItem from="1518162057488" duration="23456000" />
-      <workItem from="1519269262397" duration="3213000" />
+      <workItem from="1519269262397" duration="3382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26669000" />
+    <option name="totallyTimeSpent" value="26838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -453,10 +462,19 @@
         <state relative-caret-position="532">
           <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
+            <marker date="1519272907620" expanded="true" signature="33:88" ph="//..." />
+            <marker date="1519272907620" expanded="true" signature="396:407" ph=" { " />
+            <marker date="1519272907620" expanded="true" signature="428:434" ph=" }" />
+            <marker date="1519272907620" expanded="true" signature="534:629" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="535:571" ph="//..." />
+            <marker date="1519272907620" expanded="true" signature="699:1429" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="716:856" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="787:805" ph=" { " />
+            <marker date="1519272907620" expanded="true" signature="834:847" ph=" }" />
+            <marker date="1519272907620" expanded="true" signature="874:1039" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="947:1029" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="1291:1421" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="1476:1563" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -626,10 +644,19 @@
         <state relative-caret-position="532">
           <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
+            <marker date="1519272907620" expanded="true" signature="33:88" ph="//..." />
+            <marker date="1519272907620" expanded="true" signature="396:407" ph=" { " />
+            <marker date="1519272907620" expanded="true" signature="428:434" ph=" }" />
+            <marker date="1519272907620" expanded="true" signature="534:629" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="535:571" ph="//..." />
+            <marker date="1519272907620" expanded="true" signature="699:1429" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="716:856" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="787:805" ph=" { " />
+            <marker date="1519272907620" expanded="true" signature="834:847" ph=" }" />
+            <marker date="1519272907620" expanded="true" signature="874:1039" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="947:1029" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="1291:1421" ph="{...}" />
+            <marker date="1519272907620" expanded="true" signature="1476:1563" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -694,20 +721,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GeneralProgramDesign/ewr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GeneralProgramDesign/ForEach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="455">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GeneralProgramDesign/ewr.java">
+    <entry file="file://$PROJECT_DIR$/src/GeneralProgramDesign/fgh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="38">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding />
         </state>
       </provider>
