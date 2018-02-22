@@ -1,4 +1,4 @@
 package GeneralProgramDesign;
 
-public class cvb {
+public class vbn {
 }
