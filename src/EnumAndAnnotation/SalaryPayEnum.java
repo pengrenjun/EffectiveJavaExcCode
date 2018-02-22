@@ -1,5 +1,5 @@
-package EnumAndAnnotation;
-
+package EnumAndAnnotation;//测试
+ 
 //计算方法:工作日超过8个小时有加班费,休息日每个小时都有加班费
 //采用策略枚举策略,有利于计算方式的扩展
 public enum SalaryPayEnum {
