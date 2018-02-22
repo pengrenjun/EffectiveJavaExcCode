@@ -1,4 +1,4 @@
 package GeneralProgramDesign;
 
-public class vbn {
+public class ewr {
 }
