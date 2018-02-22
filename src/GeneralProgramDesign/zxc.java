@@ -1,4 +1,4 @@
 package GeneralProgramDesign;
 
-public class asd {
+public class zxc {
 }
