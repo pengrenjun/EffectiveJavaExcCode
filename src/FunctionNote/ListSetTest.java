@@ -30,6 +30,6 @@ public class ListSetTest {
 
         System.out.println(set+" "+list);// boolean remove(Object o);
 
-        String.valueOf(123);
+
     }
 }
