@@ -1,4 +1,4 @@
 package GeneralProgramDesign;
 
-public class zxc {
+public class cvb {
 }
