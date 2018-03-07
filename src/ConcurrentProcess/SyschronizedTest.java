@@ -13,6 +13,7 @@ public class SyschronizedTest {
 
     private static  int count;
 
+
     public static void main(String[] args) throws InterruptedException {
 
         //设置累加进程
